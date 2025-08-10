@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urmasa\\Documents\\selfDestruction\\csPetProj\\ShadowRun-adaptation\\MyComp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85944F45-DD2B-4ECF-88CC-A94AA8D3297C}|MyComp\\MyComp.csproj|c:\\users\\urmasa\\documents\\selfdestruction\\cspetproj\\shadowrun-adaptation\\mycomp\\mycomp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85944F45-DD2B-4ECF-88CC-A94AA8D3297C}|MyComp\\MyComp.csproj|solutionrelative:mycomp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\selfDestruction\\csPetProj\\ShadowRun-adaptation\\MyComp\\MyComp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyComp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\selfDestruction\\csPetProj\\ShadowRun-adaptation\\MyComp\\MyComp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyComp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T02:51:25.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
